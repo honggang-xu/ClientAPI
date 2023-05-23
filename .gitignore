@@ -1,0 +1,29 @@
+# .NET Core and Visual Studio files
+.vs/
+bin/
+obj/
+*.suo
+*.user
+*.bak
+*.cache
+
+# Build results
+/artifacts/
+/bin/
+/obj/
+
+# Visual Studio code coverage files
+*.opencover.xml
+*.dotCover.xml
+*.coverage
+
+# Test Results
+TestResults/
+
+# .NET Core
+*.dll
+*.exe
+*.pdb
+*.dll.config
+*.exe.config
+publish/
